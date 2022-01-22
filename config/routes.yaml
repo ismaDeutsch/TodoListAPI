@@ -3,5 +3,5 @@
 #    controller: App\Controller\DefaultController::index
 
 todo:
-  path: /todo
+  path: /
   controller: App\Controller\TodoListController::index
